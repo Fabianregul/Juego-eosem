@@ -18,7 +18,7 @@ var mouse = {
     y: canvas.height / 2,
     radius: 30,
     image: mouseImg, // Use the loaded mouse image
-    speed: 3
+    speed: 2
 };
 
 // Define the cats array
