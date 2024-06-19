@@ -32,7 +32,7 @@ catImg.onload = function() {
             y: Math.random() * canvas.height,
             radius: 30,
             image: catImg, // Use the loaded cat image
-            speed: 2 + Math.random() * 2, // Random initial speed between 2 and 4
+            speed: 1.6 + Math.random() * 2, // Random initial speed between 2 and 4
             direction: Math.random() * Math.PI * 2 // Random initial direction
         });
     }
